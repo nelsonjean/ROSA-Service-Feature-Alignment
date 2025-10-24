@@ -29,6 +29,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 - **ROSA-183** (Major): 6 non-closed children
 - **ROSA-511** (Major): 2 non-closed children
 - **ROSA-182** (Normal): 2 non-closed children
+- **ROSA-356** (Major): 0 children -- This wasn't found by Claude. Adding here manually. [ROSA-356](https://issues.redhat.com/browse/ROSA-356)
 
 ### Children Count by Project:
 - **ACM**: 4 issues

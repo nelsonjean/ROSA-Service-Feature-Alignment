@@ -1,6 +1,6 @@
 # ROSA Features - Non-Closed Immediate Children Report (with Sprint Info)
 
-**Generated:** 2025-10-30 23:35:06
+**Generated:** 2025-10-30 23:53:42
 
 ## Summary
 
@@ -57,7 +57,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>ACM Project (2 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [ACM-24861](https://issues.redhat.com/browse/ACM-24861) | Feature | Resolved | - | Mehmet Pekpergel | Alerts for DR account reconciliation | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2025-10-01 | 2025-10-03 |  |
 | [ACM-20793](https://issues.redhat.com/browse/ACM-20793) | Story | Resolved | - | Mehmet Pekpergel | as an operator of FM, existing management clusters will also have DR A | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2025-05-14 | 2025-10-24 |  |
@@ -67,7 +67,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (26 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-20038](https://issues.redhat.com/browse/OCM-20038) | Task | In Progress | - | Eric Cambel | Update Schedule to disable snapshotMoveData | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2025-10-30 | 2025-10-30 |  |
 | [OCM-19826](https://issues.redhat.com/browse/OCM-19826) | Task | To Do | - | Synthetic Load 10-16 clusters | 2025-10-27 14:45:38 | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2025-10-28 |  |  |
@@ -101,7 +101,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSDOCS Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSDOCS-12727](https://issues.redhat.com/browse/OSDOCS-12727) | Epic | New | - | Ryan Deussing | docs for cluster backup & restore | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2024-11-20 | 2025-09-10 |  |
 
@@ -110,7 +110,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>SLSRE Project (9 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [SLSRE-382](https://issues.redhat.com/browse/SLSRE-382) | Story | New | - | Review metrics to capture during Perf/Scale testing | 2025-09-16 11:03:47 | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2025-09-16 |  |  |
 | [SLSRE-381](https://issues.redhat.com/browse/SLSRE-381) | Story | New | - | Review Test Plan | 2025-09-16 11:00:40 | [ROSA-86](https://issues.redhat.com/browse/ROSA-86) | 2025-09-16 |  |  |
@@ -138,7 +138,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>ACM Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [ACM-24746](https://issues.redhat.com/browse/ACM-24746) | Epic | New | - | Mohamed ElSerngawy | [CAPA]: Epic for ROSA-123 - CAPA support for ROSA HCP with FIPS enable | [ROSA-123](https://issues.redhat.com/browse/ROSA-123) | 2025-09-28 | 2025-10-10 |  |
 
@@ -147,7 +147,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (23 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-19948](https://issues.redhat.com/browse/OCM-19948) | Story | To Do | - | Idit Gavra | Coordination fot FIPS/ROSA-123 | [ROSA-123](https://issues.redhat.com/browse/ROSA-123) | 2025-10-29 | 2025-10-29 |  |
 | [OCM-18682](https://issues.redhat.com/browse/OCM-18682) | Story | To Do | - | CI Integration for [TF]: Epic for XCMSTRAT-144 - Terraform support for ROSA HCP with FIPS enabled on workers | 2025-09-28 07:40:56 | [ROSA-123](https://issues.redhat.com/browse/ROSA-123) | 2025-09-28 |  |  |
@@ -178,7 +178,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCMUI Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCMUI-3821](https://issues.redhat.com/browse/OCMUI-3821) | Story | To Do | - | [ROSA-HCP] OCM UI- ROSA HCP with FIPS enabled | 2025-09-28 10:59:29 | [ROSA-123](https://issues.redhat.com/browse/ROSA-123) | 2025-10-27 |  |  |
 
@@ -187,7 +187,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSDOCS Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSDOCS-16476](https://issues.redhat.com/browse/OSDOCS-16476) | Epic | New | - | [DOCS]: Epic for ROSA-123 - Document support for ROSA HCP with FIPS | 2025-10-10 04:58:38 | [ROSA-123](https://issues.redhat.com/browse/ROSA-123) | 2025-10-10 |  |  |
 
@@ -204,7 +204,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (18 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-18499](https://issues.redhat.com/browse/OCM-18499) | Story | In Progress | ROSA Focaccia Sprint 2 | Patrick Jennings | Enable EUS channel group in FedRAMP | [ROSA-403](https://issues.redhat.com/browse/ROSA-403) | 2025-09-16 | 2025-10-30 |  |
 | [OCM-18497](https://issues.redhat.com/browse/OCM-18497) | Story | To Do | - | CI Integration for [OCM CS] Enable EUS channel group in FedRAMP | 2025-09-16 10:01:33 | [ROSA-403](https://issues.redhat.com/browse/ROSA-403) | 2025-09-16 |  |  |
@@ -230,7 +230,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCMUI Project (5 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCMUI-3957](https://issues.redhat.com/browse/OCMUI-3957) | Task | To Do | - | Disable the channel group edit icon when the cluster is in other states other than Ready status | 2025-10-27 22:49:06 | [ROSA-403](https://issues.redhat.com/browse/ROSA-403) | 2025-10-30 |  |  |
 | [OCMUI-3955](https://issues.redhat.com/browse/OCMUI-3955) | Story | In Progress | OCMUI Team Sprint 279 | Dylan Cooper | Tooltip for EUS Channel Group field | [ROSA-403](https://issues.redhat.com/browse/ROSA-403) | 2025-10-27 | 2025-10-29 |  |
@@ -243,7 +243,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSDOCS Project (2 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSDOCS-16538](https://issues.redhat.com/browse/OSDOCS-16538) | Story | In Progress | SD OSDOCS Sprint 279 | Aedin Collins | Life Cycle (Extension) (UI for OSD and ROSA) | [ROSA-403](https://issues.redhat.com/browse/ROSA-403) | 2025-10-15 | 2025-10-30 |  |
 | [OSDOCS-11705](https://issues.redhat.com/browse/OSDOCS-11705) | Epic | In Progress | - | Ryan Deussing | Revised ROSA Life Cycle (Extension) | [ROSA-403](https://issues.redhat.com/browse/ROSA-403) | 2024-08-14 | 2025-10-28 |  |
@@ -261,7 +261,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (22 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-19897](https://issues.redhat.com/browse/OCM-19897) | Story | To Do | - | Add API models, OpenAPI schema definitions, and SDK generation support for log forwarder endpoints | 2025-10-28 13:01:05 | [ROSA-418](https://issues.redhat.com/browse/ROSA-418) | 2025-10-29 |  |  |
 | [OCM-19895](https://issues.redhat.com/browse/OCM-19895) | Story | To Do | - | Create a tenant configuration API client to communicate with the tenant configuration microservice for managing log forwarder resources | 2025-10-28 12:55:52 | [ROSA-418](https://issues.redhat.com/browse/ROSA-418) | 2025-10-29 |  |  |
@@ -299,7 +299,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSD Project (36 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSD-31009](https://issues.redhat.com/browse/OSD-31009) | Sub-task | To Do | - | Benjamin Toll | Investigate and create sub-tasks where applicable | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
 | [OSD-31007](https://issues.redhat.com/browse/OSD-31007) | Sub-task | To Do | - | Kirk Bater | Enable the candidate Channel in Prod. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
@@ -351,7 +351,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (8 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-19795](https://issues.redhat.com/browse/OCM-19795) | Story | Code Review | - | Philip Wu | Implement Terraform Modules support for Image Mirrors | [ROSA-96](https://issues.redhat.com/browse/ROSA-96) | 2025-10-27 | 2025-10-29 |  |
 | [OCM-17630](https://issues.redhat.com/browse/OCM-17630) | Story | To Do | - | CI Integration for [OCM]: Epic for XCMSTRAT-994 - Client Side - ROSA-HCP - IDMS Image registry mirror config to customers | 2025-08-06 13:01:12 | [ROSA-96](https://issues.redhat.com/browse/ROSA-96) | 2025-08-11 |  |  |
@@ -378,7 +378,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (2 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-13434](https://issues.redhat.com/browse/OCM-13434) | Story | To Do | - | Jericho Keyne | E2E Automation: ROSA HCP : Terraform for Shared VPC | [ROSA-102](https://issues.redhat.com/browse/ROSA-102) | 2025-01-14 | 2025-09-18 |  |
 | [OCM-13433](https://issues.redhat.com/browse/OCM-13433) | Story | To Do | - | Jericho Keyne | CI Automation: ROSA HCP : Terraform for Shared VPC | [ROSA-102](https://issues.redhat.com/browse/ROSA-102) | 2025-01-14 | 2025-09-18 |  |
@@ -388,7 +388,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSD Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSD-31045](https://issues.redhat.com/browse/OSD-31045) | Story | In Progress | - | Rafael Azevedo | Send customer notifications for ROSA HCP Shared VPC IAM policy migrati | [ROSA-102](https://issues.redhat.com/browse/ROSA-102) | 2025-08-25 | 2025-10-08 |  |
 
@@ -405,7 +405,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (4 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-17642](https://issues.redhat.com/browse/OCM-17642) | Story | Code Review | - | Eric Himmelreich | setup AMS prometheus in FedRAMP | [ROSA-106](https://issues.redhat.com/browse/ROSA-106) | 2025-08-07 | 2025-10-29 |  |
 | [OCM-17213](https://issues.redhat.com/browse/OCM-17213) | Story | To Do | - | Add documentation for the service | 2025-07-16 22:20:45 | [ROSA-106](https://issues.redhat.com/browse/ROSA-106) | 2025-08-15 |  |  |
@@ -417,7 +417,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCMUI Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCMUI-2793](https://issues.redhat.com/browse/OCMUI-2793) | Epic | New | - | [OCM UI]: Epic for XCMSTRAT-1104 - Egress of Billing Data from ROSA GovCloud | 2024-12-13 12:15:36 | [ROSA-106](https://issues.redhat.com/browse/ROSA-106) | 2025-06-14 |  |  |
 
@@ -426,7 +426,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSDOCS Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSDOCS-12936](https://issues.redhat.com/browse/OSDOCS-12936) | Epic | New | - | Ryan Deussing | [MOS Docs]: Epic for XCMSTRAT-1104 - Egress of Billing Data from ROSA  | [ROSA-106](https://issues.redhat.com/browse/ROSA-106) | 2024-12-13 | 2025-08-25 |  |
 
@@ -443,7 +443,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSD Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSD-23547](https://issues.redhat.com/browse/OSD-23547) | Story | To Do | - | Rafael Azevedo | Migrate SRE HCP operators that run on worker nodes to Konflux and enab | [ROSA-144](https://issues.redhat.com/browse/ROSA-144) | 2024-05-22 | 2025-09-12 |  |
 
@@ -460,7 +460,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (3 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-18528](https://issues.redhat.com/browse/OCM-18528) | Story | In Progress | ROSA CLI & TF Sprint 2025-8 | Lucas Freitas | [ROSA CLI] Discontinue UWM for ROSA HCP clusters | [ROSA-183](https://issues.redhat.com/browse/ROSA-183) | 2025-09-18 | 2025-10-29 |  |
 | [OCM-15221](https://issues.redhat.com/browse/OCM-15221) | Epic | In Progress | ROSA CLI & TF Sprint 2025-6 | Hunter Kepley | [OCM-ROSA-Experience]: ROSA CLI to discontinue support for UWM-Toggle | [ROSA-183](https://issues.redhat.com/browse/ROSA-183) | 2025-04-14 | 2025-09-18 |  |
@@ -471,7 +471,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OSDOCS Project (2 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSDOCS-12898](https://issues.redhat.com/browse/OSDOCS-12898) | Story | In Progress | - | Ben Hardesty | ROSA HCP: Self-service configuration of Platform Alerts using CMO | [ROSA-183](https://issues.redhat.com/browse/ROSA-183) | 2024-12-11 | 2025-10-22 |  |
 | [OSDOCS-11965](https://issues.redhat.com/browse/OSDOCS-11965) | Epic | In Progress | - | Ben Hardesty | [MOS Docs]: Replace ROSA HCP Monitoring Docs with OCP Monitoring Docs | [ROSA-183](https://issues.redhat.com/browse/ROSA-183) | 2024-09-10 | 2025-10-21 |  |
@@ -489,7 +489,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (15 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-19963](https://issues.redhat.com/browse/OCM-19963) | Story | To Do | - | CI Integration for Machine Pool Scaling (GA) | 2025-10-29 15:20:50 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
 | [OCM-19962](https://issues.redhat.com/browse/OCM-19962) | Story | To Do | - | E2E Tests Automation for Machine Pool Scaling (GA) | 2025-10-29 15:20:48 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
@@ -512,7 +512,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCMUI Project (3 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCMUI-3920](https://issues.redhat.com/browse/OCMUI-3920) | Story | To Do | - | OCM UI: Verify support for nodepool autoscaling from zero | 2025-10-24 10:42:27 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
 | [OCMUI-3919](https://issues.redhat.com/browse/OCMUI-3919) | Story | To Do | - | Terraform Provider: Support nodepool autoscaling from zero replicas | 2025-10-24 10:42:12 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-30 |  |  |
@@ -531,7 +531,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (2 issues)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-17834](https://issues.redhat.com/browse/OCM-17834) | Story | To Do | - | Verify and Apply OSL Gatekeeping in Production | 2025-08-21 03:57:33 | [ROSA-511](https://issues.redhat.com/browse/ROSA-511) | 2025-09-30 |  |  |
 | [OCM-17498](https://issues.redhat.com/browse/OCM-17498) | Epic | In Progress | - | Deployment Gatekeeping Practice for OSL SLOs | 2025-07-31 05:16:00 | [ROSA-511](https://issues.redhat.com/browse/ROSA-511) | 2025-09-30 |  |  |
@@ -552,7 +552,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 <details>
 <summary>OCM Project (1 issue)</summary>
 
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Due Date |
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OCM-17518](https://issues.redhat.com/browse/OCM-17518) | Epic | New | - | Carl Brumm | [OCM/CS]: Epic for XCMSTRAT-1110 - enable region: Thailand ap-southeas | [ROSA-182](https://issues.redhat.com/browse/ROSA-182) | 2025-07-31 | 2025-10-08 |  |
 

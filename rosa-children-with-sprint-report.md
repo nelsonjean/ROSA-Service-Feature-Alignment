@@ -49,8 +49,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-86](https://issues.redhat.com/browse/ROSA-86): ROSA HCP - DR restoration improvements
 
-**Target End Date:** 2025-12-31
-
 **38 Non-Closed Child Issues**
 
 <details>
@@ -130,8 +128,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-123](https://issues.redhat.com/browse/ROSA-123): ROSA HCP with FIPS target crypto
 
-**Target End Date:** Not set
-
 **26 Non-Closed Child Issues**
 
 <details>
@@ -196,8 +192,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-198](https://issues.redhat.com/browse/ROSA-198): ROSA-HCP support Windows LI for CNV - GA
 
-**Target End Date:** 2025-10-31
-
 **30 Non-Closed Child Issues**
 
 <details>
@@ -258,8 +252,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-403](https://issues.redhat.com/browse/ROSA-403): Enable EUS lifecycle for managed OpenShift clusters
 
-**Target End Date:** Not set
-
 **25 Non-Closed Child Issues**
 
 <details>
@@ -315,8 +307,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-418](https://issues.redhat.com/browse/ROSA-418): ROSA HCP control plane logs forwarding to cloudwatch M2 (public preview)
 
-**Target End Date:** 2025-09-30
-
 **22 Non-Closed Child Issues**
 
 <details>
@@ -353,8 +343,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-96](https://issues.redhat.com/browse/ROSA-96): ROSA-HCP - IDMS Image registry mirror config to customers
 
-**Target End Date:** 2025-10-31
-
 **8 Non-Closed Child Issues**
 
 <details>
@@ -380,8 +368,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-102](https://issues.redhat.com/browse/ROSA-102): ROSA HCP: Shared VPC (GA)
 
-**Target End Date:** 2025-08-31
-
 **3 Non-Closed Child Issues**
 
 <details>
@@ -406,8 +392,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 ---
 
 #### [ROSA-106](https://issues.redhat.com/browse/ROSA-106): (FedRAMP High) Billing Process & Data from ROSA GovCloud
-
-**Target End Date:** 2025-09-30
 
 **6 Non-Closed Child Issues**
 
@@ -445,8 +429,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-144](https://issues.redhat.com/browse/ROSA-144): ROSA HCP multiarch/Arm follow-up components
 
-**Target End Date:** 2025-09-30
-
 **1 Non-Closed Child Issue**
 
 <details>
@@ -461,8 +443,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 ---
 
 #### [ROSA-179](https://issues.redhat.com/browse/ROSA-179): [ROSA HCP] M2 /GA: Support for EC2 Capacity Reservations
-
-**Target End Date:** 2025-10-31
 
 **5 Non-Closed Child Issues**
 
@@ -490,8 +470,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 ---
 
 #### [ROSA-183](https://issues.redhat.com/browse/ROSA-183): ROSA HCP: M2: Self-service configuration of Platform Alerts using CMO
-
-**Target End Date:** 2025-11-30
 
 **5 Non-Closed Child Issues**
 
@@ -522,8 +500,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 ### 🔵 Normal Priority
 
 #### [ROSA-182](https://issues.redhat.com/browse/ROSA-182): enable region: Thailand ap-southeast-7
-
-**Target End Date:** 2025-09-30
 
 **1 Non-Closed Child Issue**
 

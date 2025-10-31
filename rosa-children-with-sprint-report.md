@@ -1,6 +1,6 @@
 # ROSA Features - Non-Closed Immediate Children Report (with Sprint Info)
 
-**Generated:** 2025-10-30 23:53:42
+**Generated:** 2025-10-31 00:05:46
 
 ## Summary
 
@@ -14,31 +14,30 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 - Queried across specified Jira projects
 
 **Results:**
-- **Total ROSA Features:** 13
-- **Total Non-Closed Child Issues:** 191
+- **Total ROSA Features:** 12
+- **Total Non-Closed Child Issues:** 170
 - **Projects Represented:** 6
 
 ### Children Count by Feature:
 - **ROSA-86** (Blocker): 38 non-closed children
 - **ROSA-123** (Critical): 26 non-closed children
+- **ROSA-198** (Critical): 30 non-closed children
 - **ROSA-403** (Critical): 25 non-closed children
 - **ROSA-418** (Critical): 22 non-closed children
-- **ROSA-431** (Critical): 36 non-closed children
 - **ROSA-96** (Critical): 8 non-closed children
 - **ROSA-102** (Major): 3 non-closed children
 - **ROSA-106** (Major): 6 non-closed children
 - **ROSA-144** (Major): 1 non-closed children
+- **ROSA-179** (Major): 5 non-closed children
 - **ROSA-183** (Major): 5 non-closed children
-- **ROSA-356** (Major): 18 non-closed children
-- **ROSA-511** (Major): 2 non-closed children
 - **ROSA-182** (Normal): 1 non-closed children
 
 ### Children Count by Project:
 - **ACM**: 3 issues
-- **OCM**: 124 issues
-- **OCMUI**: 10 issues
-- **OSD**: 38 issues
-- **OSDOCS**: 7 issues
+- **OCM**: 129 issues
+- **OCMUI**: 16 issues
+- **OSD**: 2 issues
+- **OSDOCS**: 11 issues
 - **SLSRE**: 9 issues
 
 ---
@@ -195,6 +194,68 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 ---
 
+#### [ROSA-198](https://issues.redhat.com/browse/ROSA-198): ROSA-HCP support Windows LI for CNV - GA
+
+**Target End Date:** 2025-10-31
+
+**30 Non-Closed Child Issues**
+
+<details>
+<summary>OCM Project (22 issues)</summary>
+
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
+|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
+| [OCM-19949](https://issues.redhat.com/browse/OCM-19949) | Story | In Progress | ROSA Focaccia Sprint 3 | Brae Troutman | Update Cloud Resource ConfigMaps in AppInterface with WinLI Feature Su | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-29 | 2025-10-29 |  |
+| [OCM-18768](https://issues.redhat.com/browse/OCM-18768) | Story | To Do | - | Brae Troutman | Update Instance Type Cloud Resources Spreadsheet and OCM CSV Parser wi | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-01 | 2025-10-30 |  |
+| [OCM-18705](https://issues.redhat.com/browse/OCM-18705) | Story | To Do | - | Brae Troutman | Map updated OCM API ImageType fields to hypershift resources in CS | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-09-30 | 2025-10-29 |  |
+| [OCM-18568](https://issues.redhat.com/browse/OCM-18568) | Story | Code Review | - | Brae Troutman | Expose new image type for Node Pools in Hypershift | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-09-22 | 2025-10-29 |  |
+| [OCM-14669](https://issues.redhat.com/browse/OCM-14669) | Story | Code Review | - | Brae Troutman | Implement Instance Type OCM GA API changes for Windows LI | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-03-17 | 2025-10-30 |  |
+| [OCM-14668](https://issues.redhat.com/browse/OCM-14668) | Story | In Progress | ROSA Focaccia Sprint 3 | Brae Troutman | Expose Instance Type API changes for GA in the model and SDK | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-03-17 | 2025-10-30 |  |
+| [OCM-13507](https://issues.redhat.com/browse/OCM-13507) | Story | To Do | - | Brae Troutman | Validate user input when updating machine type | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-01-21 | 2025-10-30 |  |
+| [OCM-12655](https://issues.redhat.com/browse/OCM-12655) | Story | To Do | - | E2E Automation: [OCM]: Epic for XCMSTRAT-1066 - Terraform support for Windows LI | 2024-11-19 08:50:21 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-06-14 |  |  |
+| [OCM-12654](https://issues.redhat.com/browse/OCM-12654) | Story | To Do | - | CI Automation: [OCM]: Epic for XCMSTRAT-1066 - Terraform support for Windows LI | 2024-11-19 08:50:19 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-06-14 |  |  |
+| [OCM-12653](https://issues.redhat.com/browse/OCM-12653) | Story | To Do | - | Post-merge testing: [OCM]: Epic for XCMSTRAT-1066 - Terraform support for Windows LI | 2024-11-19 08:50:18 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-06-14 |  |  |
+| [OCM-12652](https://issues.redhat.com/browse/OCM-12652) | Epic | New | - | [OCM]: Epic for XCMSTRAT-1066 - Terraform support for Windows LI | 2024-11-19 08:50:15 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-06-14 |  |  |
+| [OCM-12651](https://issues.redhat.com/browse/OCM-12651) | Story | To Do | - | E2E Automation: [OCM]: Epic for XCMSTRAT-1066 - ROSA CLI support for Windows LI | 2024-11-19 08:48:18 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-30 |  |  |
+| [OCM-12650](https://issues.redhat.com/browse/OCM-12650) | Story | To Do | - | CI Automation: [OCM]: Epic for XCMSTRAT-1066 - ROSA CLI support for Windows LI | 2024-11-19 08:48:17 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-30 |  |  |
+| [OCM-12649](https://issues.redhat.com/browse/OCM-12649) | Story | To Do | - | Post-merge testing: [OCM]: Epic for XCMSTRAT-1066 - ROSA CLI support for Windows LI | 2024-11-19 08:48:15 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-30 |  |  |
+| [OCM-12648](https://issues.redhat.com/browse/OCM-12648) | Epic | New | - | Hunter Kepley | [OCM]: Epic for XCMSTRAT-1066 - ROSA CLI support for Windows LI | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-19 | 2025-10-30 |  |
+| [OCM-12645](https://issues.redhat.com/browse/OCM-12645) | Story | In Progress | ROSA Focaccia Sprint 3 | Implement Node Pool OCM GA API changes for Windows LI | 2024-11-19 08:40:51 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-29 |  |  |
+| [OCM-12644](https://issues.redhat.com/browse/OCM-12644) | Story | In Progress | ROSA Focaccia Sprint 3 | Brae Troutman | Expose Node Pool API changes for GA in the model and SDK | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-19 | 2025-10-30 |  |
+| [OCM-12417](https://issues.redhat.com/browse/OCM-12417) | Story | To Do | - | Brae Troutman | Improve metrics for node pool readiness | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-08 | 2025-09-24 |  |
+| [OCM-12416](https://issues.redhat.com/browse/OCM-12416) | Story | To Do | - | Aadarsh Raj | E2E Automation: [OCM]: Epic for XCMSTRAT-1066 - ROSA-HCP support Windo | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-08 | 2025-10-29 |  |
+| [OCM-12415](https://issues.redhat.com/browse/OCM-12415) | Story | To Do | - | CI Automation: [OCM]: Epic for XCMSTRAT-1066 - ROSA-HCP support Windows LI - GA | 2024-11-08 04:40:33 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-10-21 |  |  |
+| [OCM-12414](https://issues.redhat.com/browse/OCM-12414) | Story | To Do | - | Post-merge testing: [OCM]: Epic for XCMSTRAT-1066 - ROSA-HCP support Windows LI - GA | 2024-11-08 04:40:32 | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-05-30 |  |  |
+| [OCM-12413](https://issues.redhat.com/browse/OCM-12413) | Epic | In Progress | - | Brae Troutman | [OCM]: Epic for XCMSTRAT-1066 - ROSA-HCP support Windows LI - GA | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-08 | 2025-10-29 |  |
+
+</details>
+
+<details>
+<summary>OCMUI Project (6 issues)</summary>
+
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
+|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
+| [OCMUI-2907](https://issues.redhat.com/browse/OCMUI-2907) | Story | To Do | - | Lior Keren | [ROSA-HCP] Windows LI Phase 3: Remove Feature Flag | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-01-13 | 2025-10-01 |  |
+| [OCMUI-2906](https://issues.redhat.com/browse/OCMUI-2906) | Story | To Do | - | Lior Keren | [ROSA-HCP] Windows LI Phase 2: Use Official Red Hat Documentation | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-01-13 | 2025-10-01 |  |
+| [OCMUI-2905](https://issues.redhat.com/browse/OCMUI-2905) | Story | To Do | - | Lior Keren | [ROSA-HCP] Windows LI Phase 2: Use Backend API Quieries | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2025-01-13 | 2025-10-28 |  |
+| [OCMUI-2705](https://issues.redhat.com/browse/OCMUI-2705) | Story | To Do | - | Denis Ragan | E2E Automation: ROSA-HCP support Windows LI for CNV - GA | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-20 | 2025-09-09 |  |
+| [OCMUI-2703](https://issues.redhat.com/browse/OCMUI-2703) | Story | To Do | - | Denis Ragan | Post-merge testing: ROSA-HCP support Windows LI for CNV - GA | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-20 | 2025-09-09 |  |
+| [OCMUI-2702](https://issues.redhat.com/browse/OCMUI-2702) | Epic | In Progress | - | Lior Keren | [ROSA-HCP] OCM UI support Windows LI for CNV - GA | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-20 | 2025-10-28 |  |
+
+</details>
+
+<details>
+<summary>OSDOCS Project (2 issues)</summary>
+
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
+|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
+| [OSDOCS-12593](https://issues.redhat.com/browse/OSDOCS-12593) | Story | In Progress | SD OSDOCS Sprint 263 | Aedin Collins | ROSA-HCP support Windows LI for CNV - GA | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-11-07 | 2025-10-27 |  |
+| [OSDOCS-12268](https://issues.redhat.com/browse/OSDOCS-12268) | Epic | In Progress | - | Aedin Collins | [MOS Docs]: Epic for XCMSTRAT-1066 - ROSA-HCP support Windows LI | [ROSA-198](https://issues.redhat.com/browse/ROSA-198) | 2024-10-04 | 2025-07-11 |  |
+
+</details>
+
+---
+
 #### [ROSA-403](https://issues.redhat.com/browse/ROSA-403): Enable EUS lifecycle for managed OpenShift clusters
 
 **Target End Date:** Not set
@@ -285,58 +346,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 | [OCM-18503](https://issues.redhat.com/browse/OCM-18503) | Task | Code Review | - | William Kutler | Update OCM DDR to use shared logging hub architecture | [ROSA-418](https://issues.redhat.com/browse/ROSA-418) | 2025-09-16 | 2025-10-29 |  |
 | [OCM-13315](https://issues.redhat.com/browse/OCM-13315) | Task | In Progress | - | William Kutler | Spike: set up proof of concept for control plane log forwarding in CS | [ROSA-418](https://issues.redhat.com/browse/ROSA-418) | 2025-01-07 | 2025-10-16 |  |
 | [OCM-12601](https://issues.redhat.com/browse/OCM-12601) | Epic | Refinement | - | William Kutler | [OCM]: Epic for XCMSTRAT-1358 - ROSA HCP control plane logs to cloudwa | [ROSA-418](https://issues.redhat.com/browse/ROSA-418) | 2024-11-15 | 2025-10-28 |  |
-
-</details>
-
----
-
-#### [ROSA-431](https://issues.redhat.com/browse/ROSA-431): Installing New ROSA & OSD Cluster with OCP 4.20
-
-**Target End Date:** 2025-10-31
-
-**36 Non-Closed Child Issues**
-
-<details>
-<summary>OSD Project (36 issues)</summary>
-
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
-|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
-| [OSD-31009](https://issues.redhat.com/browse/OSD-31009) | Sub-task | To Do | - | Benjamin Toll | Investigate and create sub-tasks where applicable | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-31007](https://issues.redhat.com/browse/OSD-31007) | Sub-task | To Do | - | Kirk Bater | Enable the candidate Channel in Prod. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-31006](https://issues.redhat.com/browse/OSD-31006) | Sub-task | To Do | - | Kirk Bater | Validating the new Versions in production. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-31005](https://issues.redhat.com/browse/OSD-31005) | Sub-task | To Do | - | Additional Steps involved for releasing the GCP images in Marketplace. | 2025-08-05 22:32:12 | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 |  |  |
-| [OSD-31004](https://issues.redhat.com/browse/OSD-31004) | Sub-task | To Do | - | Claudio Busse | Working with the respective lead to release new OSD version on the GCP | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-31003](https://issues.redhat.com/browse/OSD-31003) | Sub-task | To Do | - | Kirk Bater | Working with the respective lead to release new ROSA version on the AW | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-31002](https://issues.redhat.com/browse/OSD-31002) | Sub-task | To Do | - | Suresh Peddinti | Identify the Lead or appropriate channels for both AWS and GCP. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-31001](https://issues.redhat.com/browse/OSD-31001) | Sub-task | To Do | - | Suresh Peddinti | Investigate and create sub-tasks where applicable | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30995](https://issues.redhat.com/browse/OSD-30995) | Sub-task | To Do | - | Ramakrishna Kyatham | Building the test jobs and observing the test failures | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30994](https://issues.redhat.com/browse/OSD-30994) | Sub-task | To Do | - | Kelly Trainor | Analyze rosa-classic test results | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30993](https://issues.redhat.com/browse/OSD-30993) | Sub-task | To Do | - | Kelly Trainor | Analyze rosa-hcp test results | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30992](https://issues.redhat.com/browse/OSD-30992) | Sub-task | To Do | - | Kelly Trainor | Investigate fixing failing tests | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30991](https://issues.redhat.com/browse/OSD-30991) | Sub-task | To Do | - | Kelly Trainor | Run tests locally using osde2e (rosa-classic and rosa-hcp) | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30990](https://issues.redhat.com/browse/OSD-30990) | Sub-task | To Do | - | Amarthya Valija | Investigate fixing failing tests | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30989](https://issues.redhat.com/browse/OSD-30989) | Sub-task | To Do | - | Kelly Trainor | Run tests locally using osde2e (rosa-classic and rosa-hcp) | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30988](https://issues.redhat.com/browse/OSD-30988) | Sub-task | To Do | - | Amarthya Valija | Run tests locally using osde2e (osd-aws and osd-gcp) | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30987](https://issues.redhat.com/browse/OSD-30987) | Sub-task | To Do | - | Amarthya Valija | Analyze osd-gcp test results | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30986](https://issues.redhat.com/browse/OSD-30986) | Sub-task | To Do | - | Amarthya Valija | Analyze osd-aws test results | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30984](https://issues.redhat.com/browse/OSD-30984) | Sub-task | To Do | - | Benjamin Toll | Create pages to show new alerts and warnings | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30983](https://issues.redhat.com/browse/OSD-30983) | Sub-task | To Do | - | Benjamin Toll | Determine which alerts should make it into the new version | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30982](https://issues.redhat.com/browse/OSD-30982) | Sub-task | To Do | - | Benjamin Toll | Document the automation program | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30981](https://issues.redhat.com/browse/OSD-30981) | Sub-task | To Do | - | Benjamin Toll | Automate the steps to compare the alerts | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30978](https://issues.redhat.com/browse/OSD-30978) | Sub-task | To Do | - | Benjamin Toll | Create documentation | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30977](https://issues.redhat.com/browse/OSD-30977) | Sub-task | To Do | - | Benjamin Toll | Write go script for updating the yaml files | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30976](https://issues.redhat.com/browse/OSD-30976) | Sub-task | To Do | - | Benjamin Toll | Staging Deployment | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30975](https://issues.redhat.com/browse/OSD-30975) | Sub-task | To Do | - | Benjamin Toll | Validate the Go Script and yaml file deployment | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30974](https://issues.redhat.com/browse/OSD-30974) | Sub-task | To Do | - | Benjamin Toll | Merge request approval and merge | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30973](https://issues.redhat.com/browse/OSD-30973) | Sub-task | To Do | - | Ramakrishna Kyatham | Yaml Pipeline for automation. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30972](https://issues.redhat.com/browse/OSD-30972) | Sub-task | To Do | - | Ramakrishna Kyatham | Test & Review Go Script. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30971](https://issues.redhat.com/browse/OSD-30971) | Sub-task | To Do | - | Ramakrishna Kyatham | Create Go Script for enabling candidate channel using automation. | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30969](https://issues.redhat.com/browse/OSD-30969) | Sub-task | To Do | - | Benjamin Toll | Investigate Using Release Controller | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30968](https://issues.redhat.com/browse/OSD-30968) | Sub-task | To Do | - | Benjamin Toll | Go over identified issues with Red Hat | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30967](https://issues.redhat.com/browse/OSD-30967) | Sub-task | To Do | - | Benjamin Toll | Create Google Sheet demo | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30966](https://issues.redhat.com/browse/OSD-30966) | Sub-task | To Do | - | Benjamin Toll | Investigate Google Sheets API | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30965](https://issues.redhat.com/browse/OSD-30965) | Sub-task | To Do | - | Benjamin Toll | Investigate Go SDKs | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
-| [OSD-30964](https://issues.redhat.com/browse/OSD-30964) | Sub-task | To Do | - | Benjamin Toll | Investigate getting data via a REST API | [ROSA-431](https://issues.redhat.com/browse/ROSA-431) | 2025-08-05 | 2025-08-05 |  |
 
 </details>
 
@@ -451,6 +460,35 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 ---
 
+#### [ROSA-179](https://issues.redhat.com/browse/ROSA-179): [ROSA HCP] M2 /GA: Support for EC2 Capacity Reservations
+
+**Target End Date:** 2025-10-31
+
+**5 Non-Closed Child Issues**
+
+<details>
+<summary>OCMUI Project (3 issues)</summary>
+
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
+|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
+| [OCMUI-3833](https://issues.redhat.com/browse/OCMUI-3833) | Story | To Do | - | David Taylor | Support upgrades, autoscaling, and reservation preferences | [ROSA-179](https://issues.redhat.com/browse/ROSA-179) | 2025-10-02 | 2025-10-16 |  |
+| [OCMUI-3832](https://issues.redhat.com/browse/OCMUI-3832) | Story | Review | - | Dylan Cooper | Display Capacity Reservation ID with a Tool tip | [ROSA-179](https://issues.redhat.com/browse/ROSA-179) | 2025-10-01 | 2025-10-30 |  |
+| [OCMUI-3484](https://issues.redhat.com/browse/OCMUI-3484) | Epic | Refinement | - | David Taylor | [ROSA HCP] Support for EC2 Capacity Reservations | [ROSA-179](https://issues.redhat.com/browse/ROSA-179) | 2025-06-09 | 2025-10-16 |  |
+
+</details>
+
+<details>
+<summary>OSDOCS Project (2 issues)</summary>
+
+| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
+|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
+| [OSDOCS-16544](https://issues.redhat.com/browse/OSDOCS-16544) | Story | New | - | Olga Tikhomirova | Update Capacity Reservations docs post CLI release | [ROSA-179](https://issues.redhat.com/browse/ROSA-179) | 2025-10-15 | 2025-10-22 |  |
+| [OSDOCS-16543](https://issues.redhat.com/browse/OSDOCS-16543) | Epic | In Progress | - | Olga Tikhomirova | [Docs] Capacity Reservations in ROSA HCP | [ROSA-179](https://issues.redhat.com/browse/ROSA-179) | 2025-10-15 | 2025-10-15 |  |
+
+</details>
+
+---
+
 #### [ROSA-183](https://issues.redhat.com/browse/ROSA-183): ROSA HCP: M2: Self-service configuration of Platform Alerts using CMO
 
 **Target End Date:** 2025-11-30
@@ -475,66 +513,6 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 |-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
 | [OSDOCS-12898](https://issues.redhat.com/browse/OSDOCS-12898) | Story | In Progress | - | Ben Hardesty | ROSA HCP: Self-service configuration of Platform Alerts using CMO | [ROSA-183](https://issues.redhat.com/browse/ROSA-183) | 2024-12-11 | 2025-10-22 |  |
 | [OSDOCS-11965](https://issues.redhat.com/browse/OSDOCS-11965) | Epic | In Progress | - | Ben Hardesty | [MOS Docs]: Replace ROSA HCP Monitoring Docs with OCP Monitoring Docs | [ROSA-183](https://issues.redhat.com/browse/ROSA-183) | 2024-09-10 | 2025-10-21 |  |
-
-</details>
-
----
-
-#### [ROSA-356](https://issues.redhat.com/browse/ROSA-356): Day-2 machine pool support min-replicas=0 and auto-scaling=yes
-
-**Target End Date:** Not set
-
-**18 Non-Closed Child Issues**
-
-<details>
-<summary>OCM Project (15 issues)</summary>
-
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
-|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
-| [OCM-19963](https://issues.redhat.com/browse/OCM-19963) | Story | To Do | - | CI Integration for Machine Pool Scaling (GA) | 2025-10-29 15:20:50 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19962](https://issues.redhat.com/browse/OCM-19962) | Story | To Do | - | E2E Tests Automation for Machine Pool Scaling (GA) | 2025-10-29 15:20:48 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19961](https://issues.redhat.com/browse/OCM-19961) | Story | To Do | - | Functional Tests for Machine Pool Scaling (GA) | 2025-10-29 15:20:45 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19960](https://issues.redhat.com/browse/OCM-19960) | Story | To Do | - | Test Plan for Machine Pool Scaling (GA) | 2025-10-29 15:20:43 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19959](https://issues.redhat.com/browse/OCM-19959) | Story | To Do | - | Feature toggle maintenance: Machine Pool Scaling (GA) | 2025-10-29 15:20:39 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19958](https://issues.redhat.com/browse/OCM-19958) | Story | To Do | - | Ensure reliability for epic Machine Pool Scaling (GA) | 2025-10-29 15:20:35 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19957](https://issues.redhat.com/browse/OCM-19957) | Epic | New | - | Machine Pool Scaling (GA) | 2025-10-29 15:20:31 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-30 |  |  |
-| [OCM-19956](https://issues.redhat.com/browse/OCM-19956) | Story | To Do | - | CI Integration for Machine Pool Scaling (Public Preview) | 2025-10-29 15:18:49 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19955](https://issues.redhat.com/browse/OCM-19955) | Story | To Do | - | E2E Tests Automation for Machine Pool Scaling (Public Preview) | 2025-10-29 15:18:46 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19954](https://issues.redhat.com/browse/OCM-19954) | Story | To Do | - | Functional Tests for Machine Pool Scaling (Public Preview) | 2025-10-29 15:18:44 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19953](https://issues.redhat.com/browse/OCM-19953) | Story | To Do | - | Test Plan for Machine Pool Scaling (Public Preview) | 2025-10-29 15:18:41 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19952](https://issues.redhat.com/browse/OCM-19952) | Story | To Do | - | Feature toggle maintenance: Machine Pool Scaling (Public Preview) | 2025-10-29 15:18:37 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19951](https://issues.redhat.com/browse/OCM-19951) | Story | To Do | - | Ensure reliability for epic Machine Pool Scaling (Public Preview) | 2025-10-29 15:18:33 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCM-19950](https://issues.redhat.com/browse/OCM-19950) | Epic | In Progress | - | Kevin Seiter | Machine Pool Scaling (Public Preview) | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 | 2025-10-30 |  |
-| [OCM-19652](https://issues.redhat.com/browse/OCM-19652) | Story | In Progress | - | Jesse Jaggars | OCM Cluster Service API: Support min-replicas=0 with autoscaling | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-23 | 2025-10-30 |  |
-
-</details>
-
-<details>
-<summary>OCMUI Project (3 issues)</summary>
-
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
-|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
-| [OCMUI-3920](https://issues.redhat.com/browse/OCMUI-3920) | Story | To Do | - | OCM UI: Verify support for nodepool autoscaling from zero | 2025-10-24 10:42:27 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-29 |  |  |
-| [OCMUI-3919](https://issues.redhat.com/browse/OCMUI-3919) | Story | To Do | - | Terraform Provider: Support nodepool autoscaling from zero replicas | 2025-10-24 10:42:12 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-30 |  |  |
-| [OCMUI-3915](https://issues.redhat.com/browse/OCMUI-3915) | Story | To Do | - | ROSA CLI: Support nodepool autoscaling from zero replicas | 2025-10-23 10:17:33 | [ROSA-356](https://issues.redhat.com/browse/ROSA-356) | 2025-10-30 |  |  |
-
-</details>
-
----
-
-#### [ROSA-511](https://issues.redhat.com/browse/ROSA-511): OCM services SLOs deployment gatekeeping
-
-**Target End Date:** 2025-09-30
-
-**2 Non-Closed Child Issues**
-
-<details>
-<summary>OCM Project (2 issues)</summary>
-
-| Key | Type | Status | Sprint | Assignee | Summary | Parent | Created | Updated | Target Date |
-|-----|------|--------|--------|----------|---------|--------|---------|---------|----------|
-| [OCM-17834](https://issues.redhat.com/browse/OCM-17834) | Story | To Do | - | Verify and Apply OSL Gatekeeping in Production | 2025-08-21 03:57:33 | [ROSA-511](https://issues.redhat.com/browse/ROSA-511) | 2025-09-30 |  |  |
-| [OCM-17498](https://issues.redhat.com/browse/OCM-17498) | Epic | In Progress | - | Deployment Gatekeeping Practice for OSL SLOs | 2025-07-31 05:16:00 | [ROSA-511](https://issues.redhat.com/browse/ROSA-511) | 2025-09-30 |  |  |
 
 </details>
 

@@ -1,6 +1,6 @@
 # ROSA Features - Non-Closed Immediate Children Report (with Sprint Info)
 
-**Generated:** 2025-10-30 23:25:40
+**Generated:** 2025-10-30 23:35:06
 
 ## Summary
 
@@ -50,7 +50,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-86](https://issues.redhat.com/browse/ROSA-86): ROSA HCP - DR restoration improvements
 
-**Target End Date:** Not set
+**Target End Date:** 2025-12-31
 
 **38 Non-Closed Child Issues**
 
@@ -254,7 +254,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-418](https://issues.redhat.com/browse/ROSA-418): ROSA HCP control plane logs forwarding to cloudwatch M2 (public preview)
 
-**Target End Date:** Not set
+**Target End Date:** 2025-09-30
 
 **22 Non-Closed Child Issues**
 
@@ -292,7 +292,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-431](https://issues.redhat.com/browse/ROSA-431): Installing New ROSA & OSD Cluster with OCP 4.20
 
-**Target End Date:** Not set
+**Target End Date:** 2025-10-31
 
 **36 Non-Closed Child Issues**
 
@@ -344,7 +344,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-96](https://issues.redhat.com/browse/ROSA-96): ROSA-HCP - IDMS Image registry mirror config to customers
 
-**Target End Date:** Not set
+**Target End Date:** 2025-10-31
 
 **8 Non-Closed Child Issues**
 
@@ -371,7 +371,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-102](https://issues.redhat.com/browse/ROSA-102): ROSA HCP: Shared VPC (GA)
 
-**Target End Date:** Not set
+**Target End Date:** 2025-08-31
 
 **3 Non-Closed Child Issues**
 
@@ -398,7 +398,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-106](https://issues.redhat.com/browse/ROSA-106): (FedRAMP High) Billing Process & Data from ROSA GovCloud
 
-**Target End Date:** Not set
+**Target End Date:** 2025-09-30
 
 **6 Non-Closed Child Issues**
 
@@ -436,7 +436,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-144](https://issues.redhat.com/browse/ROSA-144): ROSA HCP multiarch/Arm follow-up components
 
-**Target End Date:** Not set
+**Target End Date:** 2025-09-30
 
 **1 Non-Closed Child Issue**
 
@@ -453,7 +453,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-183](https://issues.redhat.com/browse/ROSA-183): ROSA HCP: M2: Self-service configuration of Platform Alerts using CMO
 
-**Target End Date:** Not set
+**Target End Date:** 2025-11-30
 
 **5 Non-Closed Child Issues**
 
@@ -545,7 +545,7 @@ This report shows all **non-closed** immediate children (childOf relationship) f
 
 #### [ROSA-182](https://issues.redhat.com/browse/ROSA-182): enable region: Thailand ap-southeast-7
 
-**Target End Date:** 2023-09-30
+**Target End Date:** 2025-09-30
 
 **1 Non-Closed Child Issue**
 
